@@ -12,4 +12,4 @@ I'm Harikesh Kushwaha, an M.Sc. student at the Indian Institute of Technology De
 
 🎯 My goal is to leverage my skills and knowledge in ML, DL, finance, and web development to develop innovative solutions that address real-world challenges. I am enthusiastic about collaborating with like-minded individuals and teams to tackle challenging problems and drive meaningful change.
 
-📫 Feel free to connect with me on [GitHub](https://github.com/Hari31416) or reach out via email. I'm always open to exciting opportunities, collaborations, or engaging discussions related to ML and DL!
+📫 Feel free to connect with me on [LinkeIn](https://www.linkedin.com/in/hari31416/) or reach out via [email](mailto:harikeshkumar0926@gmail.com). I'm always open to exciting opportunities, collaborations, or engaging discussions related to ML and DL!
