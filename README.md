@@ -1,4 +1,4 @@
-## 👋 Hello There
+## 👋 Hello There!
 
 I'm Harikesh Kushwaha, an M.Sc. student at the Indian Institute of Technology Delhi (IITD) with a deep passion for Machine Learning (ML) and Deep Learning (DL). I thrive on exploring the vast possibilities of these fields and their application to real-world problems.
 
