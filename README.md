@@ -1,18 +1,10 @@
 # 👋Hello There!
 
-I'm Harikesh Kushwaha, an M.Sc. student at the Indian Institute of Technology Delhi (IITD) with a deep passion for Machine Learning (ML) and Deep Learning (DL). I thrive on exploring the vast possibilities of these fields and their application to real-world problems.
+I'm Harikesh Kushwaha, an M.Sc. student at the Indian Institute of Technology Delhi (IITD) with a deep passion for Machine Learning (ML) and Deep Learning (DL). My academic journey has equipped me with a solid foundation in ML and DL algorithms, techniques, and frameworks. I have practical experience in developing and implementing ML models, optimizing performance, and analyzing large datasets. Additionally, I possess knowledge of finance and have worked on projects in portfolio optimization and option pricing models.
 
-🧠 My academic journey has equipped me with a solid foundation in ML and DL algorithms, techniques, and frameworks. I have gained practical experience in developing and implementing ML models, optimizing performance, and analyzing large datasets. Additionally, I possess a good knowledge of finance and have undertaken projects in portfolio optimization and option pricing models.
+💻 Besides ML and DL, I also have a keen interest in web development. I enjoy building interactive and user-friendly web applications using HTML, CSS, JavaScript, and frameworks like React.js. This combination of skills allows me to develop end-to-end solutions leveraging ML and DL in user-facing applications. Throughout my academic and personal projects, I have worked on diverse problem domains such as image classification, sentiment analysis, and recommendation systems. Please see my skill-set [below](#skill-set) for a detailed list of my technical skills.
 
-💻 In addition to my focus on ML and DL, I also have a keen interest in web development. I enjoy building interactive and user-friendly web applications using modern web technologies, including HTML, CSS, JavaScript, and popular frameworks like React.js. This combination of skills allows me to develop end-to-end solutions that leverage the power of ML and DL in user-facing applications.
-
-🔬 Throughout my academic and personal projects, I have worked on diverse problem domains, such as image classification, sentiment analysis, recommendation systems, and more. I am proficient in programming languages such as Python and have experience with popular ML libraries such as TensorFlow, PyTorch and Scikit-learn.
-
-🌟 I am a strong believer in continuous learning and keeping up with the latest advancements in ML, DL, and web development. I actively participate in online communities, read research papers, and explore open-source projects to expand my knowledge and stay updated with the cutting-edge trends in these fields.
-
-🎯 My goal is to leverage my skills and knowledge in ML, DL, finance, and web development to develop innovative solutions that address real-world challenges. I am enthusiastic about collaborating with like-minded individuals and teams to tackle challenging problems and drive meaningful change.
-
-📫 Below, you will some detail about my skill-set. You can contact me via any of the social links given in the [Social](#social) section. I'm always open to exciting opportunities, collaborations, or engaging discussions related to ML and DL!
+🌟 I believe in continuous learning and keeping up with the latest advancements in ML, DL, and web development. My goal is to leverage my skills and knowledge in ML, DL, finance, and web development to develop innovative solutions for real-world challenges. I am enthusiastic about collaborating with like-minded individuals and teams to tackle challenging problems and drive meaningful change. You can contact me via the social links provided [below](#social). I'm always open to exciting opportunities, collaborations, or engaging discussions related to ML and DL!
 
 # Skill-Set
 
@@ -63,12 +55,12 @@ I'm Harikesh Kushwaha, an M.Sc. student at the Indian Institute of Technology De
 </div>
 <div align="center">
   <a href="https://github.com/hari31416">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hari31416&hide_border=true&&theme=algolia" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hari31416&hide_border=true&&theme=algolia&card_width=700" />
   </a>
 </div>
 <div align="center">
   <a href="https://github.com/hari31416">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hari31416&langs_count=8&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=pie&hide_border=true&theme=algolia&card_width=338" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hari31416&langs_count=8&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=compact&hide_border=true&theme=algolia&card_width=700" />
   </a>
 <div>
 <p>
