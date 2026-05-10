@@ -1,68 +1,93 @@
-# 👋Hello There!
+# 👋 Hello There!
 
-I'm Harikesh Kushwaha, an alumnus of the Indian Institute of Technology Delhi (IIT Delhi) and currently an AI Engineer at KPMG, specialising in Generative AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and agentic AI systems. With over two years of experience, I focus on building production-grade AI solutions that blend cutting-edge research with real-world engineering. My work spans scalable LLM-powered chatbots, natural-language analytics platforms, automated BI systems, and retrieval-driven enterprise applications.
+I'm **Harikesh Kushwaha**, an alumnus of **IIT Delhi** and a **Full Stack Gen AI Engineer** currently at **KPMG**. I specialize in architecting and deploying production-grade agentic systems, enterprise RAG platforms, and automated data analysis tools with a focus on open-source, on-premise solutions for high-stakes government ministries and major financial institutions.
 
-I am fluent in Python, SQL, and the modern data science ecosystem, with hands-on experience in machine learning, deep learning, vector databases, and GPU-accelerated model serving. I’m deeply interested in state-of-the-art algorithms, model optimisation, and high-performance backend systems, and I enjoy turning innovative ideas into robust, impactful AI products. Beyond AI, I also explore web technologies and enjoy building clean, intuitive interfaces that bring ML and GenAI systems closer to users.
+My work spans multi-agent orchestration (LangGraph, smolagents), advanced document understanding (OCR, hierarchical clustering), high-performance backend APIs, and polished full-stack UIs. I'm deeply interested in LLM fine-tuning, secure execution environments, and turning cutting-edge AI research into robust, impactful products.
 
-I believe in continuous learning and enjoy sharing, collaborating, and contributing to open-source projects. Feel free to explore my work, connect with me, or reach out through the links below—I’m always open to discussing AI, LLMs, engineering challenges, or potential collaborations.
+I believe in continuous learning, open collaboration, and clean engineering. Feel free to explore my work or reach out. I'm always up for discussing AI, LLMs, or interesting engineering challenges.
 
-# Skill-Set
+## Core Expertise
 
-## Languages
+- **Agentic AI Orchestration** — Multi-agent systems using **LangGraph**, **smolagents**, and **DeepAgents** with self-correction, ReAct loops, and supervisor–subagent patterns.
+- **Enterprise RAG** — High-precision retrieval with hybrid search (Qdrant + Meilisearch, Semantic + BM25 + RRF), multi-hop reasoning, and hierarchical document clustering.
+- **Secure Execution** — MicroVM-isolated sandboxes (Microsandbox) for safe agent-generated code execution in zero-trust environments.
+- **Gov Tech & Scale** — National-level AI solutions supporting **22 Indic languages** across central and state government ministries.
+- **Full Stack Development** — End-to-end ownership: FastAPI backends, React/Vite frontends, real-time SSE streaming, and visual debuggers.
+- **Data Engineering & Analytics** — Deep data pipelines integrating GenAI for automated visualization, statistical reporting, and schema-aware NL-to-SQL.
+
+## Technical Stack
+
+### Core Languages
 
 ![Python](https://img.shields.io/badge/python-364c69?style=flat&logo=python)
+![TypeScript](https://img.shields.io/badge/typescript-364c69?style=flat&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/javascript-364c69?style=flat&logo=javascript)
-![C++](https://img.shields.io/badge/C++-364c69?style=flat&logo=cplusplus)
-![Bash](https://img.shields.io/badge/Bash-364c69?style=flat&logo=gnu-bash&logoColor=white)
-
-## Database
-
 ![SQL](https://img.shields.io/badge/SQL-364c69?style=flat&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-364c69?style=flat&logo=MongoDB)
+![Bash](https://img.shields.io/badge/Bash-364c69?style=flat&logo=gnu-bash&logoColor=white)
+![C++](https://img.shields.io/badge/C++-364c69?style=flat&logo=cplusplus)
 
-## Frameworks
+### Backend & Agentic AI
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-364c69?style=flat&logo=fastapi)
+![LangGraph](https://img.shields.io/badge/LangGraph-364c69?style=flat)
 ![LangChain](https://img.shields.io/badge/LangChain-364c69?style=flat&logo=chainlink)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-364c69?style=flat&logo=huggingface)
+![LiteLLM](https://img.shields.io/badge/LiteLLM-364c69?style=flat)
 ![vLLM](https://img.shields.io/badge/vLLM-364c69?style=flat)
+![NVIDIA NIM](https://img.shields.io/badge/NVIDIA_NIM-364c69?style=flat&logo=nvidia)
+![Celery](https://img.shields.io/badge/Celery-364c69?style=flat&logo=celery)
+
+### Frontend & Styling
+
+![React](https://img.shields.io/badge/React-364c69?style=flat&logo=react)
+![Vite](https://img.shields.io/badge/Vite-364c69?style=flat&logo=vite)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-364c69?style=flat&logo=tailwindcss)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-364c69?style=flat&logo=shadcnui)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-364c69?style=flat&logo=framer)
+![Zustand](https://img.shields.io/badge/Zustand-364c69?style=flat)
+
+### Databases & Vector Stores
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-364c69?style=flat&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-364c69?style=flat&logo=mongodb)
+![Qdrant](https://img.shields.io/badge/Qdrant-364c69?style=flat)
 ![Milvus](https://img.shields.io/badge/Milvus-364c69?style=flat&logo=milvus)
-![FAISS](https://img.shields.io/badge/FAISS-364c69?style=flat)
+![Marqo](https://img.shields.io/badge/Marqo-364c69?style=flat)
 ![Redis](https://img.shields.io/badge/Redis-364c69?style=flat&logo=redis)
+![MinIO](https://img.shields.io/badge/MinIO-364c69?style=flat&logo=minio)
+![Meilisearch](https://img.shields.io/badge/Meilisearch-364c69?style=flat&logo=meilisearch)
+
+### Machine Learning & OCR
+
+![PyTorch](https://img.shields.io/badge/PyTorch-364c69?style=flat&logo=pytorch)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-364c69?style=flat&logo=huggingface)
+![PaddleOCR](https://img.shields.io/badge/PaddleOCR-364c69?style=flat)
+![Docling](https://img.shields.io/badge/Docling-364c69?style=flat)
+![Pandas](https://img.shields.io/badge/Pandas-364c69?style=flat&logo=pandas)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-364c69?style=flat&logo=scikitlearn)
+
+### Infrastructure & DevOps
+
+![Docker](https://img.shields.io/badge/Docker-364c69?style=flat&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-364c69?style=flat&logo=kubernetes)
-![Airflow](https://img.shields.io/badge/Apache%20Airflow-364c69?style=flat&logo=apache-airflow)
-![Streamlit](https://img.shields.io/badge/Streamlit-364c69?style=flat&logo=streamlit)
-![Gradio](https://img.shields.io/badge/Gradio-364c69?style=flat)
-![Transformers](https://img.shields.io/badge/Transformers-364c69?style=flat&logo=huggingface)
+![Airflow](https://img.shields.io/badge/Apache_Airflow-364c69?style=flat&logo=apacheairflow)
+![Grafana](https://img.shields.io/badge/Grafana-364c69?style=flat&logo=grafana)
+![uv](https://img.shields.io/badge/uv-364c69?style=flat)
+![pnpm](https://img.shields.io/badge/pnpm-364c69?style=flat&logo=pnpm)
 
-
-## Other Libraries
-
-![Pydantic](https://img.shields.io/badge/Pydantic-364c69?style=flat&logo=pydantic)
-![Uvicorn](https://img.shields.io/badge/Uvicorn-364c69?style=flat)
-![Selenium](https://img.shields.io/badge/Selenium-364c69?style=flat&logo=selenium)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-364c69?style=flat&logo=sqlalchemy)
-![XGBoost](https://img.shields.io/badge/XGBoost-364c69?style=flat)
-![StreamLit](https://img.shields.io/badge/StreamLit-364c69?style=flat&logo=Streamlit)
-![CatBoost](https://img.shields.io/badge/CatBoost-364c69?style=flat)
-![OpenCV](https://img.shields.io/badge/OpenCV-364c69?style=flat&logo=opencv)
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-364c69?style=flat)
-
-
-## Social
+## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-364c69?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hari31416/)
-[![GitHub](https://img.shields.io/badge/GitHub-364c69?style=flat-flat&logo=github)](https://www.github.com/hari31416/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-364c69?style=flat-flat&logo=Kaggle)](https://www.kaggle.com/hari31416/)
-[![Coursera](https://img.shields.io/badge/Coursera-364c69?style=flat-flat&logo=Coursera)](https://www.coursera.org/user/653199aa0d09b66f56935df4d81b03ca)
-[![Goodreads](https://img.shields.io/badge/Goodreads-364c69?style=flat-flat&logo=Goodreads)](https://www.goodreads.com/user/show/110673662-harikesh-kumar)
+[![GitHub](https://img.shields.io/badge/GitHub-364c69?style=flat&logo=github)](https://www.github.com/hari31416/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-364c69?style=flat&logo=Kaggle)](https://www.kaggle.com/hari31416/)
+[![Coursera](https://img.shields.io/badge/Coursera-364c69?style=flat&logo=Coursera)](https://www.coursera.org/user/653199aa0d09b66f56935df4d81b03ca)
 
 <details>
-<summary>GitHub Statistics</summary>
+<summary>📈 GitHub Statistics</summary>
 <div style="display: flex; align-items: center; justify-content: center;flex-direction: column;">
     <div align="center">
   <a href="https://github.com/hari31416">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hari31416&theme=algolia&card_width=338" />
+  </a>
 </div>
 <div align="center">
   <a href="https://github.com/hari31416">
@@ -73,9 +98,11 @@ I believe in continuous learning and enjoy sharing, collaborating, and contribut
   <a href="https://github.com/hari31416">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hari31416&langs_count=8&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=compact&hide_border=true&theme=algolia&card_width=700" />
   </a>
+</div>
 <div>
 <p>
     <img src="https://komarev.com/ghpvc/?username=hari31416&color=364c69&style=flat" />
 </p>
+</div>
 </div>
 </details>
