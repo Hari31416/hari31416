@@ -11,9 +11,10 @@ I believe in continuous learning, open collaboration, and clean engineering. Fee
 - **Agentic AI Orchestration** — Multi-agent systems using **LangGraph**, **smolagents**, and **DeepAgents** with self-correction, ReAct loops, and supervisor–subagent patterns.
 - **Enterprise RAG** — High-precision retrieval with hybrid search (Qdrant + Meilisearch, Semantic + BM25 + RRF), multi-hop reasoning, and hierarchical document clustering.
 - **Secure Execution** — MicroVM-isolated sandboxes (Microsandbox) for safe agent-generated code execution in zero-trust environments.
+- **Cloud Architecture** — Designing resilient, event-driven infrastructure on **AWS** and **Azure** utilising serverless paradigms, distributed Pub/Sub mechanisms, and scalable cloud-native systems.
 - **Gov Tech & Scale** — National-level AI solutions supporting **22 Indic languages** across central and state government ministries.
 - **Full Stack Development** — End-to-end ownership: FastAPI backends, React/Vite frontends, real-time SSE streaming, and visual debuggers.
-- **Data Engineering & Analytics** — Deep data pipelines integrating GenAI for automated visualization, statistical reporting, and schema-aware NL-to-SQL.
+- **Data Engineering & Analytics** — Deep data pipelines integrating GenAI for automated visualisation, statistical reporting, and schema-aware NL-to-SQL.
 
 ## Technical Stack
 
